@@ -1,7 +1,8 @@
 # doom-fire
 
-Result
-=============
+Doom game fire algorithm
+
+### Result
 ![fire][fire]
 
 
